@@ -1,0 +1,49 @@
+
+.left-right{
+     margin-top:100px;
+     .left{
+          height: 350px;
+          background: #fdfafa;
+          text-align: center;
+          h3{
+               font-size: 50px;
+               margin-top: 30px;
+          }
+          .myinput{
+               input{
+
+                    border:1px solid #c4c4c4;
+                    width:80%;
+                    margin:10px auto;
+                    padding: 7px;
+                    border-radius: 7px;
+                    opacity:1;
+                    &::placeholder{
+                         color:#000;
+                         opacity: 1;
+                         
+                    }
+               }
+               .mybuttonforlogin{
+                    width:80%;
+                    margin:10px auto;
+                    background: #1340EB;
+                    text-align: center;
+                    padding: 12px 0;
+                    color:#fff;
+                    border:0;
+                    border-radius: 7px;
+               }
+          }
+     }
+     .right{
+          height: 350px;
+          background: #1340EB;
+          text-align: center;
+          h3{
+               line-height: 350px;
+               color:#fff;
+               font-size: 50px;
+          }
+     }
+}

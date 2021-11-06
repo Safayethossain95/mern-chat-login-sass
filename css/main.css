@@ -1,0 +1,67 @@
+.left-right {
+  margin-top: 100px;
+}
+
+.left-right .left {
+  height: 350px;
+  background: #fdfafa;
+  text-align: center;
+}
+
+.left-right .left h3 {
+  font-size: 50px;
+  margin-top: 30px;
+}
+
+.left-right .left .myinput input {
+  border: 1px solid #c4c4c4;
+  width: 80%;
+  margin: 10px auto;
+  padding: 7px;
+  border-radius: 7px;
+  opacity: 1;
+}
+
+.left-right .left .myinput input::-webkit-input-placeholder {
+  color: #000;
+  opacity: 1;
+}
+
+.left-right .left .myinput input:-ms-input-placeholder {
+  color: #000;
+  opacity: 1;
+}
+
+.left-right .left .myinput input::-ms-input-placeholder {
+  color: #000;
+  opacity: 1;
+}
+
+.left-right .left .myinput input::placeholder {
+  color: #000;
+  opacity: 1;
+}
+
+.left-right .left .myinput .mybuttonforlogin {
+  width: 80%;
+  margin: 10px auto;
+  background: #1340EB;
+  text-align: center;
+  padding: 12px 0;
+  color: #fff;
+  border: 0;
+  border-radius: 7px;
+}
+
+.left-right .right {
+  height: 350px;
+  background: #1340EB;
+  text-align: center;
+}
+
+.left-right .right h3 {
+  line-height: 350px;
+  color: #fff;
+  font-size: 50px;
+}
+/*# sourceMappingURL=main.css.map */
