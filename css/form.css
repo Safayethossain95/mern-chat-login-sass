@@ -48,20 +48,4 @@
   border: 0;
   border-radius: 7px;
 }
-
-.left-right {
-  margin-top: 100px;
-}
-
-.left-right .right {
-  height: 350px;
-  background: #1340EB;
-  text-align: center;
-}
-
-.left-right .right h3 {
-  line-height: 350px;
-  color: #fff;
-  font-size: 50px;
-}
-/*# sourceMappingURL=main.css.map */
+/*# sourceMappingURL=form.css.map */
